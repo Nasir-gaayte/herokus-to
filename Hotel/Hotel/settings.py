@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 from pathlib import Path
 import os
-import django_heroku
+# import django_heroku
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
